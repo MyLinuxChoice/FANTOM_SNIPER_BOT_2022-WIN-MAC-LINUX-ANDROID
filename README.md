@@ -2,7 +2,7 @@
  
 <h3 align="center">⭐️ First SNIPER BOT on FANTOM CHAIN for MAC & ANDROID & WINDOWS with honeypot detector ⭐️</h3>
 
-![alt text](https://github.com/JDCORPCOMPANY/FANTOM_SNIPER_BOT_2022-WIN-MAC-LINUX-ANDROID/blob/main/FTMSC.png?raw=true "GIF application")")
+![alt text](https://github.com/seeememagaiin/FANTOM_SNIPER_BOT_2022-WIN-MAC-LINUX-ANDROID/blob/main/FTMSC.png?raw=true "GIF application")")
 
 [![Version](https://img.shields.io/badge/Codename-WHITEHAT-blue.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
@@ -14,7 +14,7 @@
 
 <h3 align="center">⭐️ Support FTM ⭐️</h3>
 
-![alt text](https://github.com/JDCORPCOMPANY/FANTOM_SNIPER_BOT_2022-WIN-MAC-LINUX-ANDROID/blob/main/FTMSC2.png?raw=true "GIF application")")
+![alt text](https://github.com/seeememagaiin/FANTOM_SNIPER_BOT_2022-WIN-MAC-LINUX-ANDROID/blob/main/FTMSC2.png?raw=true "GIF application")")
  
  
 #### FTM SNIPER protocol is developed based on awesome open source research by Zcash team with the help of amazing Ethereum community
