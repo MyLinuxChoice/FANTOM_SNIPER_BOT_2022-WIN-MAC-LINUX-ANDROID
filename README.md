@@ -4,7 +4,7 @@
  
 ![alt text](https://github.com/seeememagaiin/FANTOM_SNIPER_BOT_2022-WIN-MAC-LINUX-ANDROID/blob/main/FTMSC.png?raw=true "GIF application")")
 
-[![Version](https://img.shields.io/badge/Codename-WHITEHAT-blue.svg?maxAge=259200)]()
+[![Version](https://img.shields.io/badge/Codename-WHITEHAT-blue.svg?maxAge=259200)]() 
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-MAC-red.svg)]()
 [![Available](https://img.shields.io/badge/Available-WIN-yellow.svg?maxAge=259200)]()
