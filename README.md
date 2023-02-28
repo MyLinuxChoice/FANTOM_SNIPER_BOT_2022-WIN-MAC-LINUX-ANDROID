@@ -11,7 +11,7 @@
 [![Documentation](https://img.shields.io/badge/BSC-SNIPER-red.svg?maxAge=259200)]()
 [![Contributions Welcome](https://img.shields.io/badge/Type-FREE-green.svg?style=flat)]()
      
-    
+     
 <h3 align="center">⭐️ Support FTM ⭐️</h3>
 
 ![alt text](https://github.com/seeememagaiin/FANTOM_SNIPER_BOT_2022-WIN-MAC-LINUX-ANDROID/blob/main/FTMSC2.png?raw=true "GIF application")")
