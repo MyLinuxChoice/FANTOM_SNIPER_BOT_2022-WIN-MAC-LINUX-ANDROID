@@ -1,4 +1,4 @@
-<h2 align="center">⭐️ FANTOM SNIPER (SpookySwap) BOT 2022-V1 (MAC WINDOWS ANDROID LINUX)⭐️ </h2>
+<h2 align="center">⭐️ FANTOM SNIPER (SpookySwap) BOT 2022-V1 (MAC WINDOWS ANDROID LINUX)⭐️ </h2> 
     
 <h3 align="center">⭐️ First SNIPER BOT on FANTOM CHAIN for MAC & ANDROID & WINDOWS with honeypot detector ⭐️</h3>
  
