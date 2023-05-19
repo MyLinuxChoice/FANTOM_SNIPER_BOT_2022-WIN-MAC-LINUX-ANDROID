@@ -15,7 +15,7 @@
 <h3 align="center">⭐️ Support FTM ⭐️</h3>
 
 ![alt text](https://github.com/seeememagaiin/FANTOM_SNIPER_BOT_2022-WIN-MAC-LINUX-ANDROID/blob/main/FTMSC2.png?raw=true "GIF application")")
- 
+  
  
 #### FTM SNIPER protocol is developed based on awesome open source research by Zcash team with the help of amazing Ethereum community
 #### Web3  Sniper & honeypot detector Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
